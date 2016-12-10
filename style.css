@@ -1,0 +1,14 @@
+#mianContainer{
+    background-color: skyblue;
+    padding: 100px;
+    height: 600px;
+}
+#form{
+   
+
+}
+input{
+    width: 40%;
+    height: 30px;
+    margin: 2px auto;
+}
